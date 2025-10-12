@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=25&color=0E1116&text=_____________________________________-nl-&fontAlign=50&stroke=00FFFF&strokeWidth=1&fontColor=00FFFF&desc=___________________________________________________________________________________________________________&fontAlignY=0&descAlignY=27&descSize=30"/>
 </div>
 
+<br></br>
+
 
 <div align="center">
 
@@ -12,7 +14,7 @@
 </div>
 
 
-
+<br></br><br></br>
 
 <details align="center">  
   <summary>
