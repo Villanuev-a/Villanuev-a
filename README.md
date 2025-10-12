@@ -20,18 +20,20 @@
   <summary><samp><b></b></samp></summary>
   <br>
 
-  <div align = "center">
-    <!-- Conteúdo aqui -->
-    <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Orbitron&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116"/>
-</p>
-<p>
+ <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&theme=midnight-purple&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116"/>
-</p>
+    src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Orbitron&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116" 
+    style="display: inline-block;" 
+    height="165"
+  />
 
-  </div>
-  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&theme=midnight-purple&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116" 
+    style="display: inline-block;" 
+    height="165"
+  />
+</div>
+
 </details>
 
 
