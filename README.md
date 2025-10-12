@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0x000000&stroke=00FFFF&strokeWidth=2&animation=fadeIn&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0x000000&stroke=00FFFF&strokeWidth=2&animation=fadeIn&section=header&text=José%20Villanueva&fontColor=00FFFF&desc=_________________&descSize=20&descAlign=60" />
+
 
 
 
