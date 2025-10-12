@@ -20,7 +20,7 @@
   <summary><samp><b></b></samp></summary>
   <br>
 
-  <div align="center">
+  <div>
     <!-- Conteúdo aqui -->
     <p><img src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Orbitron" />
 </p>
