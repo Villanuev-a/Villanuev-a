@@ -32,20 +32,21 @@
   </div>
 
   <br><br>
+  <div align="center"><samp><div style="color:#00FFFF">KNOWLEDGES</div></samp></div>
+  <br></br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+</div>
+
 </details>
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=25&color=0E1116&text=_____________________________________-nl-&fontAlign=50&stroke=00FFFF&strokeWidth=1&fontColor=00FFFF&desc=___________________________________________________________________________________________________________&fontAlignY=50&descAlignY=1&descSize=30&section=footer"/>
 </div>
-
