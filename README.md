@@ -16,31 +16,29 @@
 
 <br></br>
 
-<details align="center">  
+<details align="center">
   <summary>
-      <samp>
-        <b>
-          <div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&hide_border=true" />
+    <samp><b></b></samp>
+  </summary>
 
   <br>
 
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&theme=tokyonight&hide_border=true" />
+  <div align="center">
 
-  <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&hide_border=true" />
 
-  <!-- Ícones de tecnologias -->
-  <img src="https://skillicons.dev/icons?i=java,css,html,js,python,git,github,vscode" />
+    <br>
 
-</div>
 
-        </b>
-      </samp>
-  </summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&theme=tokyonight&hide_border=true" />
+
+    <br><br>
+
+    <img src="https://skillicons.dev/icons?i=java,css,html,js" />
+
+  </div>
 </details>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=25&color=0E1116&text=_____________________________________-nl-&fontAlign=50&stroke=00FFFF&strokeWidth=1&fontColor=00FFFF&desc=___________________________________________________________________________________________________________&fontAlignY=50&descAlignY=1&descSize=30&section=footer"/>
