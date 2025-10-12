@@ -26,6 +26,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Orbitron&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116"/>
 </p>
 
+
+  </div>
+  <div>
+     <img 
+    src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Orbitron&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116"
+  />
   </div>
 </details>
 
