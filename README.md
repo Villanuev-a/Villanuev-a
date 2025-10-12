@@ -17,7 +17,7 @@
 <br></br>
 
 <details align="center">
-  <summary><samp><b style="color:#00FFFF">📊 Ver estatísticas</b></samp></summary>
+  <summary><samp><b></b></samp></summary>
   <br>
 
   <div align="center">
