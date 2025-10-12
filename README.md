@@ -27,7 +27,7 @@
         height="165"
       />
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&theme=midnight-purple&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&theme=midnight-purple&title_color=00FFFF&layout=compact&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116" 
         height="165"
       />
     </div>
