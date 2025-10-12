@@ -17,25 +17,16 @@
 <br></br>
 
 <details align="center">
-  <summary><samp><b>📊 Ver estatísticas e tecnologias</b></samp></summary>
+  <summary><samp><b>📁 Ver mais</b></samp></summary>
   <br>
+
   <div align="center">
-
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&hide_border=true"/>
-
-    <br>
-
-    <!-- Linguagens mais usadas -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&theme=tokyonight&hide_border=true"/>
-
-    <br><br>
-
-    <!-- Ícones de tecnologias -->
-    <img src="https://skillicons.dev/icons?i=java,css,html,js"/>
-
+    <!-- Conteúdo aqui -->
+    <p>Adicione suas estatísticas, ícones, links ou qualquer coisa que quiser.</p>
   </div>
 </details>
+
+
 
 
 
