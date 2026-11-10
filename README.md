@@ -16,7 +16,10 @@
 <br>
 
 <div align="center">
-  <img src="./assets/projects.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
+    <img src="./assets/projects-light.svg" width="100%" alt="IA para Alunos e Educadores: web and mobile app that generates educational images with AI. Cloud Architecting Capstone: student-records web app on AWS."/>
+  </picture>
 </div>
 
 <br></br>
@@ -34,14 +37,14 @@
   <br><br>
 
   <div align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=C9A24A&text_color=EDE6D6&icon_color=C9A24A&ring_color=C9A24A&bg_color=0A0A0A" 
-      height="165"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=C9A24A&text_color=EDE6D6&bg_color=0A0A0A" 
-      height="165"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=C9A24A&text_color=EDE6D6&icon_color=C9A24A&ring_color=C9A24A&bg_color=0A0A0A">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=A07A24&text_color=24292F&icon_color=A07A24&ring_color=A07A24&bg_color=FFFFFF" alt="GitHub stats"/>
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=C9A24A&text_color=EDE6D6&bg_color=0A0A0A">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=A07A24&text_color=24292F&bg_color=FFFFFF" alt="Top languages"/>
+    </picture>
   </div>
 
   <br><br>
@@ -65,7 +68,10 @@
 <br></br>
 
 <div align="center">
-  <img src="./assets/equalizer.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/equalizer-dark.svg">
+    <img src="./assets/equalizer-light.svg" width="100%"/>
+  </picture>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A&section=footer"/>
 </div>
