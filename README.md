@@ -40,7 +40,7 @@
   </div>
 
   <br><br>
-  <div align="center"><img src="./assets/title-knowledges.svg#gh-dark-mode-only" height="40" alt="SKILLS"/><img src="./assets/title-knowledges-light.svg#gh-light-mode-only" height="40" alt="SKILLS"/></div>
+  <div align="center"><img src="./assets/title-skills.svg#gh-dark-mode-only" height="40" alt="SKILLS"/><img src="./assets/title-skills-light.svg#gh-light-mode-only" height="40" alt="SKILLS"/></div>
   <br></br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
