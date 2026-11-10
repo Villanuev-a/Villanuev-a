@@ -16,7 +16,7 @@
  <filter id="glow2" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3"/></filter>
  <clipPath id="sq"><rect x="44" y="71" width="230" height="230" rx="6"/></clipPath>
 </defs>
-<rect x="1.5" y="1.5" width="857" height="369" rx="22" fill="#08090C" stroke="url(#chrome)" stroke-width="2"/>
+<rect x="1.5" y="1.5" width="857" height="369" rx="22" fill="#08090C" stroke="#2A2D33" stroke-width="2"/>
 <rect x="44" y="71" width="230" height="230" rx="6" fill="none" stroke="url(#rb)" stroke-width="10" filter="url(#glow)" opacity="0.95"/>
 <rect x="42" y="69" width="234" height="234" rx="8" fill="none" stroke="url(#rb)" stroke-width="3" filter="url(#glow2)"/>
 <rect x="43" y="70" width="232" height="232" rx="7" fill="none" stroke="url(#rb)" stroke-width="1.5"/>
