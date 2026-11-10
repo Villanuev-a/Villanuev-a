@@ -16,18 +16,7 @@
 <br>
 
 <div align="center">
-
-**IA para Alunos e Educadores**<br>
-<sub>Flutter · Dart · Gemini API</sub><br>
-Web and mobile app that generates educational images with AI.<br>
-Full stack development and team lead.
-
-<br>
-
-**Cloud Architecting Capstone**<br>
-<sub>AWS</sub><br>
-Student-records web app on AWS, scaled with load balancing and Auto Scaling.
-
+  <img src="./assets/projects.svg" width="100%"/>
 </div>
 
 <br></br>
