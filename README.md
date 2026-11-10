@@ -12,7 +12,7 @@
 
 <br></br>
 
-<div align="center"><i>PROJECTS</i></div>
+<div align="center"><img src="./assets/title-projects.svg" height="40" alt="PROJECTS"/></div>
 <br>
 
 <div align="center">
@@ -22,7 +22,7 @@
 <br></br>
 
 <details align="center">
-  <summary><i>STATS</i></summary>
+  <summary><img src="./assets/title-stats.svg" height="40" alt="STATS"/></summary>
   <br><br>
 
   <div align="center">
@@ -37,7 +37,7 @@
   </div>
 
   <br><br>
-  <div align="center"><i>KNOWLEDGES</i></div>
+  <div align="center"><img src="./assets/title-knowledges.svg" height="40" alt="KNOWLEDGES"/></div>
   <br></br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -57,7 +57,7 @@
 <br></br>
 
 <div align="center">
-  <img src="./assets/equalizer.svg" width="60%"/>
+  <img src="./assets/equalizer.svg" width="80%"/>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A&section=footer"/>
 </div>
