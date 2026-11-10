@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A"/>
+  <img src="./assets/line.svg" width="100%"/>
 </div>
 
 <br></br>
 
 <div align="center">
 
-  <img src="./assets/intro.svg#gh-dark-mode-only" width="100%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/><img src="./assets/intro-light.svg#gh-light-mode-only" width="100%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/>
+  <img src="./assets/intro.svg#gh-dark-mode-only" width="100%" alt="Hello. My name is José Henrique Villanueva, studying Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/><img src="./assets/intro-light.svg#gh-light-mode-only" width="100%" alt="Hello. My name is José Henrique Villanueva, studying Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/>
 
 </div>
 
@@ -43,16 +43,7 @@
   <div align="center"><img src="./assets/title-skills.svg#gh-dark-mode-only" height="40" alt="SKILLS"/><img src="./assets/title-skills-light.svg#gh-light-mode-only" height="40" alt="SKILLS"/></div>
   <br></br>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-Image.png" height="40" alt="AWS"/>
-
+  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,html,css,mysql,mongodb,aws&theme=dark" alt="Java, Python, Dart, Flutter, HTML, CSS, MySQL, MongoDB, AWS"/>
 </div>
 
 </details>
@@ -63,5 +54,5 @@
   <img src="./assets/equalizer-dark.svg#gh-dark-mode-only" width="100%"/>
   <img src="./assets/equalizer-light.svg#gh-light-mode-only" width="100%"/>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A&section=footer"/>
+  <img src="./assets/line.svg" width="100%"/>
 </div>
