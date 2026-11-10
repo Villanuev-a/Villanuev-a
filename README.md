@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="./assets/intro.svg" width="80%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/>
+  <img src="./assets/intro.svg" width="100%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/>
 
 </div>
 
@@ -59,7 +59,7 @@
 <br></br>
 
 <div align="center">
-  <img src="./assets/equalizer.svg" width="80%"/>
+  <img src="./assets/equalizer.svg" width="100%"/>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A&section=footer"/>
 </div>
