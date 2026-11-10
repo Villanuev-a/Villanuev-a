@@ -35,10 +35,8 @@
   <br><br>
 
   <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=C9A24A&text_color=EDE6D6&icon_color=C9A24A&ring_color=C9A24A&bg_color=0A0A0A#gh-dark-mode-only" alt="GitHub stats"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=A07A24&text_color=24292F&icon_color=A07A24&ring_color=A07A24&bg_color=FFFFFF#gh-light-mode-only" alt="GitHub stats"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=C9A24A&text_color=EDE6D6&bg_color=0A0A0A#gh-dark-mode-only" alt="Top languages"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=A07A24&text_color=24292F&bg_color=FFFFFF#gh-light-mode-only" alt="Top languages"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=C9A24A&text_color=8B8B8B&icon_color=C9A24A&ring_color=C9A24A&bg_color=00000000" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=C9A24A&text_color=8B8B8B&bg_color=00000000" alt="Top languages"/>
   </div>
 
   <br><br>
