@@ -22,7 +22,7 @@
 <br></br>
 
 <div align="center">
-  <img src="./assets/courses-player.svg" width="100%" alt="Courses: Build with Gemini (Google Cloud), Cloud Developing and Cloud Operations (AWS Academy), Python for Data Science, Networking Basics (Cisco), Cloud Foundations (AWS Academy), Agile Project Management Fundamentals (PMI), Scrum, Azure DevOps (Microsoft), Advanced English C1, Java Foundations (Oracle Academy), Brazilian Sign Language Basics"/>
+  <img src="./assets/courses-player.svg" width="90%" alt="Courses: Build with Gemini (Google Cloud), Cloud Developing and Cloud Operations (AWS Academy), Python for Data Science, Networking Basics (Cisco), Cloud Foundations (AWS Academy), Agile Project Management Fundamentals (PMI), Scrum, Azure DevOps (Microsoft), Advanced English C1, Java Foundations (Oracle Academy), Brazilian Sign Language Basics"/>
 </div>
 
 <br></br>
