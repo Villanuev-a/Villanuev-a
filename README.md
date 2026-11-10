@@ -21,8 +21,10 @@
 
 <br></br>
 
+<div align="center"><img src="./assets/title-stats.svg" height="40" alt="STATS"/></div>
+
 <details align="center">
-  <summary><img src="./assets/title-stats.svg" height="40" alt="STATS"/></summary>
+  <summary><sub><i>show</i></sub></summary>
   <br><br>
 
   <div align="center">
