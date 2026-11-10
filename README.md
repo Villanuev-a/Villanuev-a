@@ -6,20 +6,18 @@
 
 <div align="center">
 
-  <img src="./assets/intro.svg" width="100%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/>
+  <img src="./assets/intro.svg#gh-dark-mode-only" width="100%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/><img src="./assets/intro-light.svg#gh-light-mode-only" width="100%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/>
 
 </div>
 
 <br></br>
 
-<div align="center"><img src="./assets/title-projects.svg" height="40" alt="PROJECTS"/></div>
+<div align="center"><img src="./assets/title-projects.svg#gh-dark-mode-only" height="40" alt="PROJECTS"/><img src="./assets/title-projects-light.svg#gh-light-mode-only" height="40" alt="PROJECTS"/></div>
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
-    <img src="./assets/projects-light.svg" width="100%" alt="IA para Alunos e Educadores: web and mobile app that generates educational images with AI. Cloud Architecting Capstone: student-records web app on AWS."/>
-  </picture>
+  <img src="./assets/projects-dark.svg#gh-dark-mode-only" width="100%" alt="IA para Alunos e Educadores: web and mobile app that generates educational images with AI. Cloud Architecting Capstone: student-records web app on AWS."/>
+  <img src="./assets/projects-light.svg#gh-light-mode-only" width="100%" alt="IA para Alunos e Educadores: web and mobile app that generates educational images with AI. Cloud Architecting Capstone: student-records web app on AWS."/>
 </div>
 
 <br></br>
@@ -30,25 +28,21 @@
 
 <br></br>
 
-<div align="center"><img src="./assets/title-stats.svg" height="40" alt="STATS"/></div>
+<div align="center"><img src="./assets/title-stats.svg#gh-dark-mode-only" height="40" alt="STATS"/><img src="./assets/title-stats-light.svg#gh-light-mode-only" height="40" alt="STATS"/></div>
 
 <details align="center">
   <summary><sub><i>show</i></sub></summary>
   <br><br>
 
   <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=C9A24A&text_color=EDE6D6&icon_color=C9A24A&ring_color=C9A24A&bg_color=0A0A0A">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=A07A24&text_color=24292F&icon_color=A07A24&ring_color=A07A24&bg_color=FFFFFF" alt="GitHub stats"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=C9A24A&text_color=EDE6D6&bg_color=0A0A0A">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=A07A24&text_color=24292F&bg_color=FFFFFF" alt="Top languages"/>
-    </picture>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=C9A24A&text_color=EDE6D6&icon_color=C9A24A&ring_color=C9A24A&bg_color=0A0A0A#gh-dark-mode-only" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=A07A24&text_color=24292F&icon_color=A07A24&ring_color=A07A24&bg_color=FFFFFF#gh-light-mode-only" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=C9A24A&text_color=EDE6D6&bg_color=0A0A0A#gh-dark-mode-only" alt="Top languages"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=A07A24&text_color=24292F&bg_color=FFFFFF#gh-light-mode-only" alt="Top languages"/>
   </div>
 
   <br><br>
-  <div align="center"><img src="./assets/title-knowledges.svg" height="40" alt="KNOWLEDGES"/></div>
+  <div align="center"><img src="./assets/title-knowledges.svg#gh-dark-mode-only" height="40" alt="KNOWLEDGES"/><img src="./assets/title-knowledges-light.svg#gh-light-mode-only" height="40" alt="KNOWLEDGES"/></div>
   <br></br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -68,10 +62,8 @@
 <br></br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/equalizer-dark.svg">
-    <img src="./assets/equalizer-light.svg" width="100%"/>
-  </picture>
+  <img src="./assets/equalizer-dark.svg#gh-dark-mode-only" width="100%"/>
+  <img src="./assets/equalizer-light.svg#gh-light-mode-only" width="100%"/>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A&section=footer"/>
 </div>
