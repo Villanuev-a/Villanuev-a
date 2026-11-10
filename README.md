@@ -1,40 +1,54 @@
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=15&color=00FFFF&fontAlign=50&stroke=00FFFF&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A"/>
 </div>
-
-
 
 <br></br>
 
-
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=10&letterSpacing=5px&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=HELLO!;MY+NAME+IS+JOS%C3%89+HENRIQUE+VILLANUEVA;CURRENTLY+GRADUATING+IN+COMPUTER+SCIENCE;AT+INSTITUTO+MAU%C3%81+DE+TECNOLOGIA;FROM+S%C3%83O+PAULO%2C+BRAZIL)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=16&letterSpacing=6px&duration=4000&pause=1000&color=C9A24A&center=true&vCenter=true&width=800&lines=HELLO.;MY+NAME+IS+JOS%C3%89+HENRIQUE+VILLANUEVA;CURRENTLY+GRADUATING+IN+COMPUTER+SCIENCE;AT+INSTITUTO+MAU%C3%81+DE+TECNOLOGIA;FROM+S%C3%83O+PAULO%2C+BRAZIL)](https://git.io/typing-svg)
 
 </div>
 
+<br></br>
+
+<div align="center"><i>PROJECTS</i></div>
+<br>
+
+<div align="center">
+
+**IA para Alunos e Educadores**<br>
+<sub>Flutter · Dart · Gemini API</sub><br>
+Web and mobile app that generates educational images with AI.<br>
+Full stack development and team lead.
+
+<br>
+
+**Cloud Architecting Capstone**<br>
+<sub>AWS</sub><br>
+Student-records web app on AWS, scaled with load balancing and Auto Scaling.
+
+</div>
 
 <br></br>
 
 <details align="center">
-  <summary><samp><b style="color:#00FFFF">📊</b></samp></summary>
+  <summary><i>STATS</i></summary>
   <br><br>
 
   <div align="center">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Orbitron&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116" 
+      src="https://github-readme-stats.vercel.app/api?username=Villanuev-a&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=C9A24A&text_color=EDE6D6&icon_color=C9A24A&ring_color=C9A24A&bg_color=0A0A0A" 
       height="165"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&theme=midnight-purple&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0E1116" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&langs_count=10&hide_border=true&title_color=C9A24A&text_color=EDE6D6&bg_color=0A0A0A" 
       height="165"
     />
   </div>
 
   <br><br>
-  <div align="center"><samp><div style="color:#00FFFF">KNOWLEDGES</div></samp></div>
+  <div align="center"><i>KNOWLEDGES</i></div>
   <br></br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -51,6 +65,10 @@
 
 </details>
 
+<br></br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=15&color=00FFFF&fontAlign=50&stroke=00FFFF&strokeWidth=1&fontColor=00FFFF&fontAlignY=50&descAlignY=1&descSize=30&section=footer"/>
+  <img src="./assets/equalizer.svg" width="60%"/>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A24A&section=footer"/>
 </div>
