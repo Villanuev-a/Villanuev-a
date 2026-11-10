@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=16&letterSpacing=6px&duration=4000&pause=1000&color=C9A24A&center=true&vCenter=true&width=800&lines=HELLO.;MY+NAME+IS+JOS%C3%89+HENRIQUE+VILLANUEVA;CURRENTLY+GRADUATING+IN+COMPUTER+SCIENCE;AT+INSTITUTO+MAU%C3%81+DE+TECNOLOGIA;FROM+S%C3%83O+PAULO%2C+BRAZIL)](https://git.io/typing-svg)
+  <img src="./assets/intro.svg" width="80%" alt="Hello. My name is José Henrique Villanueva, currently graduating in Computer Science at Instituto Mauá de Tecnologia, from São Paulo, Brazil"/>
 
 </div>
 
